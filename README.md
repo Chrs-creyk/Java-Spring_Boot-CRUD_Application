@@ -21,7 +21,7 @@
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-git clone
+git clone git@github.com:Chrs-creyk/Java-Spring_Boot-CRUD_Application.git
 
 2. Importa el proyecto en IntelliJ IDEA:
     - Abre IntelliJ IDEA.
